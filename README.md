@@ -1,0 +1,1 @@
+This project aims to develop a neural network-based model to detect whether individuals are wearing facemasks. The project involves data collection, preprocessing, model training, and evaluation to create an effective facemask detection system.
